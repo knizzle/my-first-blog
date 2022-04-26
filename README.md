@@ -2,4 +2,4 @@
 
 django girls tutorial
 
-**not a real blog
+\*not a real blog
